@@ -34,8 +34,8 @@ Quipay is a decentralized payroll protocol enabling **continuous salary streamin
 
 ### For Employers
 
-- **Continuous Payment Streams** - Set up recurring salaries that accrue per second
-- **Treasury Solvency Management** - Automatic balance verification prevents overspending
+- **Continuous Payment Streams** - Set up recurring salaries that accrue per second.
+- **Treasury Solvency Management** - Automatic balance verification prevents overspending.
 - **Multi-Token Support** - Pay in XLM, USDC, or any Stellar asset
 - **AI Automation** - Intelligent agents handle payroll scheduling and treasury optimization
 - **Compliance Ready** - Built-in audit trails and payment verification
